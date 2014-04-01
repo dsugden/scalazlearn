@@ -1,0 +1,4 @@
+scalazlearn
+===========
+
+Learning Scalaz Project
